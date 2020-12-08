@@ -100,7 +100,7 @@ $ yarn start
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Roberto Luiz 👋🏽 [Entre em contato!](www.linkedin.com/in/roberto-luiz-45616a139)
+Feito com ❤️ por Roberto Luiz 👋🏽 [Entre em contato!](https://www.linkedin.com/in/roberto-luiz-45616a139/)
 
 
 [nodejs]: https://nodejs.org/
